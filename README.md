@@ -267,13 +267,13 @@ Open the Assembly or C source file in MPLAB.
 For Assembly:
 
 ```text
-main_assembly.asm
+src_asm.asm
 ```
 
 For Embedded C:
 
 ```text
-main_embedded_c.c
+src_C.c
 ```
 
 ### 2. Build the Project
